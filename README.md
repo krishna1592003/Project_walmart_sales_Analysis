@@ -8,12 +8,14 @@ The goal is to **collect, clean, process, analyze, and store data** in a relatio
 
 The project uses **Python** for data processing and **MySQL** for analytical querying, following real-world **ETL (Extract, Transform, Load)** and **SQL-based business analysis** practices.
 
-```
 
 ## 🧩 Project Architecture (Pipeline)
 
+<p align="center">
+  <img src="project-piplelines.jpg" width="700"/>
+</p>
 
-
+```
 Kaggle Walmart Dataset
 ↓
 API / CSV
@@ -41,7 +43,7 @@ SQL Queries for Business Analysis
 - Date and time attributes  
 - Quantity, pricing, and payment methods  
 
-```
+
 ##  Technologies Used
 
 ### Programming & Libraries
@@ -58,7 +60,7 @@ SQL Queries for Business Analysis
 - Kaggle Dataset  
 - Git & GitHub  
 
-```
+
 ##  Features
 
 - Data ingestion from Kaggle dataset  
@@ -67,7 +69,7 @@ SQL Queries for Business Analysis
 - Loading structured data into MySQL  
 - Performing **advanced SQL queries** for business insights  
 
-```
+
 
 ##  Data Processing Steps
 
@@ -85,7 +87,6 @@ SQL Queries for Business Analysis
 - Create MySQL database and tables  
 - Insert cleaned data using SQLAlchemy & PyMySQL  
 
-```
 
 ##  MySQL Business Queries & Analysis
 
@@ -128,7 +129,7 @@ Walmart-Project/
 ##  How to Run the Project
 
 ### 1️⃣ Clone the Repository
-```bash
+bash
 git clone https://github.com/your-username/Walmart-Project.git
 cd Walmart-Project
 2️⃣ Install Dependencies
@@ -182,7 +183,9 @@ Machine learning models for sales forecasting
 👤 Author
 
 Gunnala Krishna Prasad
+
 B.Tech Computer Science Student
+
 Data Engineering & Full Stack Enthusiast
 
 
