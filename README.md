@@ -1,6 +1,5 @@
 # Walmart Data Engineering & Analytics Project
 
-```
 
 ##  Project Overview
 
@@ -13,7 +12,7 @@ The project uses **Python** for data processing and **MySQL** for analytical que
 
 ## 🧩 Project Architecture (Pipeline)
 
-![Project Architecture](project-pipeline.jpg)
+
 
 Kaggle Walmart Dataset
 ↓
